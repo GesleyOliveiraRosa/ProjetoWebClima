@@ -1,4 +1,0 @@
-function getWeather(city) {
-
-  
-}  
